@@ -1,0 +1,17 @@
+{
+  "name": "dental-care",
+  "version": "1.0.0",
+  "description": "Beautiful static website for Dental clinic 🔥.",
+  "scripts": {
+    "compile:scss": "sass --watch ./scss/main.scss ./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-sourov/dental-care.git"
+  },
+  "author": "Sourov Biswas",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
